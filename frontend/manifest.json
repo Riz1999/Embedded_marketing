@@ -1,0 +1,11 @@
+{
+    "name": "Apparels Extension",
+    "version": "1.0.0",
+    "description": "Buy apparels directly from the screen",
+    "manifest_version": 3,
+    "author": "Tarun Kotagiri",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Apparels Extension"
+    }
+}
